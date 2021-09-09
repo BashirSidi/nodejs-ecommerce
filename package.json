@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BashirSidi/nodejs-ecommerce.git"
+  },
+  "author": "Bashir Salisu Sidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BashirSidi/nodejs-ecommerce/issues"
+  },
+  "homepage": "https://github.com/BashirSidi/nodejs-ecommerce#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
