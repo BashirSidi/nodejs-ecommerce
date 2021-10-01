@@ -11,3 +11,8 @@ The admin panel is going to give an administrator or someone who owns or runs th
 And I will probably want to make sure that not everybody come to the site apart from the administrator or site owner through authentication. And there will be a signup page for administrator where I will take email, password and password confirmation, if user or admin log out, I need to make they also have the ability to sign back in the future as well, and only administrators are required to log into the web site, a end user or like customer can browse all the different items and have a shopping cart without logging in at all, so I only have two types of users, normal users and an administrator. 
 
 And I will make it in such a way an administrators can see the administration pages as well as where they can manage the list of all the different product.
+
+# how to run:
+
+- Go into the root directory of the application and run " npm install "
+- then, run " npm run dev " and open localhost 3000 on your browser tap.
